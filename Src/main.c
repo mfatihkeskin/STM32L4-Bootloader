@@ -252,7 +252,7 @@ void UploadModeEnable(void){															//fill the ram by traveling row by co
 /*
  * Fist touch u want see the selection terminal. if u dont click any key for 10 second going to default mode.
  * Second touch is u can choose any mode for selection menu.
- * Third touch if u was choose menu 5, upload mode has been enable. select for instead of any app for new app
+ * Third touch if u choosed menu 5, upload mode has been enable. select for instead of any app for new app
  * */
 
 void SelectionTerminalScreen(uint32_t time){
