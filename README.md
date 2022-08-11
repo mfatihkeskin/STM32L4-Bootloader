@@ -31,7 +31,7 @@ Bare-metal bootloader coding
 ## If u are select 6 u can see this message and u can transfer .bin file instead of APP-1 from uart
 ![image](https://user-images.githubusercontent.com/70964563/184145542-a34f5b57-f12c-4869-b01e-706329fcc7e3.png)
 
-##if u are select 7 u can see this message and u can transfer .bin file instead of APP-1  from uart
+## If u are select 7 u can see this message and u can transfer .bin file instead of APP-2  from uart
 ![image](https://user-images.githubusercontent.com/70964563/184145846-b87c6b97-35f7-4f6b-979b-9f9c9c03d7a5.png)
 
 
