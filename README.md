@@ -1,5 +1,4 @@
-# STM32L4-Bootloader
-Bare-metal bootloader coding
+# STM32L4-Bootloader (Bare-metal, Board Support Package, Register Level)
 
 One of the important issues for embedded systems is that the software can be updated remotely. We are developing products that contain embedded software, and sometimes we need to update the embedded software in these products by making software additions and improvements based on errors in the codes or customer requests. In such cases, it would not be the right choice to update the new software we have developed by going to the beginning of the products. Moreover, thousands of these products may have been sold or even sent not only domestically but also abroad. It is an important feature that the product we have developed for such situations can be updated remotely.
 
