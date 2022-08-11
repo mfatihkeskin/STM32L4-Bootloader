@@ -1,0 +1,3 @@
+../Src/bootjump.c:32:6:bootloader_default_mode	16	static
+../Src/bootjump.c:41:6:bootloader_jump_to_user_app1	24	static,ignoring_inline_asm
+../Src/bootjump.c:60:6:bootloader_jump_to_user_app2	24	static,ignoring_inline_asm

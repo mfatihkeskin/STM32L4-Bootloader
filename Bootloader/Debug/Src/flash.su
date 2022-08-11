@@ -1,0 +1,10 @@
+../Src/flash.c:115:6:BSP_FLASH_Lock	4	static
+../Src/flash.c:121:6:BSP_FLASH_UnLock	4	static
+../Src/flash.c:134:6:BSP_FLASH_BankPageErase	24	static
+../Src/flash.c:161:6:BSP_FLASH_EraseRoutine	16	static
+../Src/flash.c:178:6:FLASH_FlushCaches	16	static
+../Src/flash.c:208:6:DoubleWordWriteInit	16	static
+../Src/flash.c:215:6:BSP_FlashProgram	24	static
+../Src/flash.c:269:6:BSP_FLASH_FastWrite	24	static
+../Src/flash.c:284:6:BSP_FLASH_BankErase	16	static
+../Src/flash.c:302:10:BSP_FLASH_Read	24	static

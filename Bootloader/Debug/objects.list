@@ -1,0 +1,8 @@
+"./Src/bootjump.o"
+"./Src/crc16.o"
+"./Src/flash.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/system_stm32l4xx.o"
+"./Startup/startup_stm32l496zgtx.o"

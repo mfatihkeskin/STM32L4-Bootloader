@@ -1,0 +1,4 @@
+../Src/crc16.c:22:6:CRC_init_16	4	static
+../Src/crc16.c:177:9:generateCRC8	24	static
+../Src/crc16.c:208:10:generateCRC16	32	static
+../Src/crc16.c:240:10:generateCRC32	32	static
