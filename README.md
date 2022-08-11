@@ -1,7 +1,5 @@
 # STM32L4-Bootloader (Bare-metal, Board Support Package, Register Level)
 
-One of the important issues for embedded systems is that the software can be updated remotely. We are developing products that contain embedded software, and sometimes we need to update the embedded software in these products by making software additions and improvements based on errors in the codes or customer requests. In such cases, it would not be the right choice to update the new software we have developed by going to the beginning of the products. Moreover, thousands of these products may have been sold or even sent not only domestically but also abroad. It is an important feature that the product we have developed for such situations can be updated remotely.
-
 What is wanted to be done in this project is to be able to change the user applications received by updating remotely thanks to the bootloader. By default, the Bootloader will offer the ability to update 2 applications that it stores in a different location on its flash while doing something desired. Flash is divided into 3 parts and is located at the base address (0x08000000) with the bootloader default mode turned on, APP-1 at 0x08040000 and APP-2 at 0x08080000. In this way, the UART connection is established and the files sent from the terminal are written instead of APP-1 or APP-2 and the code update is performed remotely. 
 
 ## Working Principle and User Manual
